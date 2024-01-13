@@ -5,7 +5,7 @@ This project is a simplified clone of the Amazon e-commerce platform. It is buil
 ## Features
 
 - Static representation of product listing and details
-- Responsive design for destop users
+- Responsive design for desktop users
 
 ## Usage
 
